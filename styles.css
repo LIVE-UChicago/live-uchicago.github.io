@@ -1,0 +1,11 @@
+body {
+    font-family: 'PT Mono', monospace;
+    text-align: center;
+    background-color: whitesmoke;
+    vertical-align: middle;
+    padding: 3rem;
+}
+
+main {
+    padding: 1em;
+}
