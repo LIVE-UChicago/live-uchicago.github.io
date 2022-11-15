@@ -3,7 +3,9 @@ body {
     text-align: center;
     background-color: whitesmoke;
     vertical-align: middle;
-    padding: 3rem;
+    padding: 2.5rem;
+    width: min(50em, 85%); 
+    margin: 0 auto;
 }
 
 main {
