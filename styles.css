@@ -11,3 +11,15 @@ body {
 main {
     padding: 1em;
 }
+
+.question {
+    color: #d33e41;
+    
+    font-size: 2em;
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+.title {
+    font-family: 'Josefin Sans', sans-serif;
+}
